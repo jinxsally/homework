@@ -17,4 +17,4 @@ arr = input().split()#输入数组
 insert_sort(arr)
 for i in range(len(arr)):#将字符串数组转换为整数数组
     arr[i]=int(arr[i])
-print(arr)
+print(arr)#输出数组
